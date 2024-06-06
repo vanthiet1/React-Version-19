@@ -24,3 +24,6 @@
           ],
         },
    })
+
+   <!-- link doc cài react compiler -->
+   https://react.dev/learn/react-compiler
